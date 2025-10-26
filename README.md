@@ -12,12 +12,12 @@
 
 #### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,html,css,js,cpp,bootstrap" /> 
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,html,css,js,cpp,bootstrap,mongodb" />  
 </p>
 
 #### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sts,eclipse,vscode,git,github,maven,gradle,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=sts,eclipse,vscode,git,github,maven,gradle,mysql" />
 </p>
 
 ---
@@ -50,18 +50,3 @@ Tenho experiência em bancos de dados relacionais e não relacionais, como **MyS
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<!--
-**FernandoBzFarias/FernandoBzFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
