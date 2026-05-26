@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  💻 Atuando com Java e C#, focado em sistemas distribuídos e performance.
+  💻 Atuando com Java,C# e Phayton, focado em sistemas distribuídos e performance.
 </p>
 
 ---
